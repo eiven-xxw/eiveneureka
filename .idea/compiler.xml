@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="com-eiven-eurekaclient" />
+        <module name="com-eureka-test1" />
+        <module name="eiven-service-feign" />
+        <module name="eiven-service-ribbon" />
+        <module name="eiveneureka" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="com-eiven-eurekaclient" target="1.8" />
+      <module name="com-eureka-test1" target="1.8" />
+      <module name="eiven-serice-feign" target="1.8" />
+      <module name="eiven-service-feign" target="1.8" />
+      <module name="eiven-service-ribbon" target="1.8" />
+      <module name="eiveneureka" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

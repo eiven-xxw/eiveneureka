@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/com-eiven-eurekaclient/com-eiven-eurekaclient.iml" filepath="$PROJECT_DIR$/com-eiven-eurekaclient/com-eiven-eurekaclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com-eureka-test1/com-eureka-test1.iml" filepath="$PROJECT_DIR$/com-eureka-test1/com-eureka-test1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../eiveneureka/eiven-service-feign/eiven-service-feign.iml" filepath="$PROJECT_DIR$/../eiveneureka/eiven-service-feign/eiven-service-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eiven-service-ribbon/eiven-service-ribbon.iml" filepath="$PROJECT_DIR$/eiven-service-ribbon/eiven-service-ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eiveneureka.iml" filepath="$PROJECT_DIR$/eiveneureka.iml" />
+    </modules>
+  </component>
+</project>
